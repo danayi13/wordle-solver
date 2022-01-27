@@ -1,0 +1,350 @@
+Most Frequent Letters:
+letter: a, freq: 10.54%
+letter: e, freq: 9.8  %
+letter: s, freq: 8.21 %
+letter: o, freq: 6.56 %
+letter: r, freq: 6.46 %
+letter: i, freq: 6.37 %
+letter: l, freq: 5.33 %
+letter: t, freq: 5.26 %
+letter: n, freq: 5.08 %
+letter: u, freq: 4.22 %
+letter: d, freq: 3.53 %
+letter: c, freq: 3.45 %
+letter: y, freq: 3.17 %
+letter: m, freq: 3.13 %
+letter: p, freq: 2.89 %
+letter: h, freq: 2.87 %
+letter: b, freq: 2.62 %
+letter: g, freq: 2.48 %
+letter: k, freq: 2.19 %
+letter: f, freq: 1.56 %
+letter: w, freq: 1.47 %
+letter: v, freq: 1.1  %
+letter: z, freq: 0.6  %
+letter: j, freq: 0.47 %
+letter: x, freq: 0.45 %
+letter: q, freq: 0.17 %
+
+Most Frequent Letter In The First Position:
+letter: s, freq: 11.39%
+letter: c, freq: 7.51 %
+letter: a, freq: 7.37 %
+letter: b, freq: 7.17 %
+letter: t, freq: 6.16 %
+letter: p, freq: 5.93 %
+letter: m, freq: 5.33 %
+letter: d, freq: 5.03 %
+letter: g, freq: 4.63 %
+letter: f, freq: 4.3  %
+letter: r, freq: 4.28 %
+letter: l, freq: 4.27 %
+letter: h, freq: 3.59 %
+letter: k, freq: 2.97 %
+letter: w, freq: 2.94 %
+letter: e, freq: 2.64 %
+letter: n, freq: 2.54 %
+letter: o, freq: 2.1  %
+letter: u, freq: 2.06 %
+letter: i, freq: 1.89 %
+letter: v, freq: 1.8  %
+letter: j, freq: 1.63 %
+letter: y, freq: 1.05 %
+letter: z, freq: 0.7  %
+letter: q, freq: 0.53 %
+letter: x, freq: 0.17 %
+
+Most Frequent Letter In The Second Position:
+letter: a, freq: 18.04%
+letter: o, freq: 14.33%
+letter: e, freq: 12.38%
+letter: i, freq: 10.48%
+letter: u, freq: 8.81 %
+letter: r, freq: 7.23 %
+letter: l, freq: 5.44 %
+letter: h, freq: 4.52 %
+letter: n, freq: 3.5  %
+letter: t, freq: 1.99 %
+letter: p, freq: 1.78 %
+letter: y, freq: 1.75 %
+letter: c, freq: 1.6  %
+letter: m, freq: 1.46 %
+letter: w, freq: 1.09 %
+letter: s, freq: 1.09 %
+letter: d, freq: 0.85 %
+letter: b, freq: 0.68 %
+letter: g, freq: 0.64 %
+letter: k, freq: 0.63 %
+letter: v, freq: 0.51 %
+letter: x, freq: 0.46 %
+letter: f, freq: 0.25 %
+letter: z, freq: 0.23 %
+letter: q, freq: 0.13 %
+letter: j, freq: 0.12 %
+
+Most Frequent Letter In The Third Position:
+letter: r, freq: 9.7  %
+letter: a, freq: 9.3  %
+letter: i, freq: 7.96 %
+letter: n, freq: 7.78 %
+letter: o, freq: 7.25 %
+letter: l, freq: 6.66 %
+letter: e, freq: 6.45 %
+letter: u, freq: 4.94 %
+letter: t, freq: 4.92 %
+letter: s, freq: 4.28 %
+letter: m, freq: 4.08 %
+letter: c, freq: 3.34 %
+letter: d, freq: 3.23 %
+letter: g, freq: 2.9  %
+letter: b, freq: 2.8  %
+letter: p, freq: 2.73 %
+letter: k, freq: 1.94 %
+letter: v, freq: 1.8  %
+letter: w, freq: 1.73 %
+letter: y, freq: 1.44 %
+letter: h, freq: 1.31 %
+letter: f, freq: 1.24 %
+letter: z, freq: 0.9  %
+letter: x, freq: 0.79 %
+letter: j, freq: 0.36 %
+letter: q, freq: 0.17 %
+
+Most Frequent Letter In The Fourth Position:
+letter: e, freq: 15.76%
+letter: a, freq: 9.96 %
+letter: i, freq: 8.3  %
+letter: t, freq: 6.4  %
+letter: n, freq: 5.87 %
+letter: l, freq: 5.8  %
+letter: o, freq: 5.67 %
+letter: r, freq: 5.48 %
+letter: s, freq: 4.53 %
+letter: u, freq: 4.31 %
+letter: d, freq: 3.42 %
+letter: c, freq: 3.4  %
+letter: k, freq: 3.04 %
+letter: g, freq: 3.0  %
+letter: m, freq: 2.93 %
+letter: p, freq: 2.66 %
+letter: b, freq: 1.87 %
+letter: h, freq: 1.81 %
+letter: f, freq: 1.35 %
+letter: v, freq: 1.26 %
+letter: y, freq: 1.01 %
+letter: w, freq: 1.0  %
+letter: z, freq: 0.81 %
+letter: j, freq: 0.24 %
+letter: x, freq: 0.11 %
+letter: q, freq: 0.02 %
+
+Most Frequent Letter In The Fifth Position:
+letter: s, freq: 19.78%
+letter: e, freq: 11.77%
+letter: y, freq: 10.59%
+letter: a, freq: 8.05 %
+letter: t, freq: 6.85 %
+letter: n, freq: 5.71 %
+letter: r, freq: 5.62 %
+letter: d, freq: 5.13 %
+letter: l, freq: 4.51 %
+letter: o, freq: 3.44 %
+letter: i, freq: 3.2  %
+letter: h, freq: 3.12 %
+letter: k, freq: 2.36 %
+letter: m, freq: 1.87 %
+letter: c, freq: 1.39 %
+letter: p, freq: 1.34 %
+letter: g, freq: 1.22 %
+letter: u, freq: 0.99 %
+letter: x, freq: 0.73 %
+letter: f, freq: 0.63 %
+letter: b, freq: 0.61 %
+letter: w, freq: 0.59 %
+letter: z, freq: 0.34 %
+letter: v, freq: 0.14 %
+letter: q, freq: 0.02 %
+letter: j, freq: 0.01 %
+
+Most Frequent location for letter : a
+position: 2, freq: 34.21%
+position: 4, freq: 18.89%
+position: 3, freq: 17.65%
+position: 5, freq: 15.28%
+position: 1, freq: 13.98%
+
+Most Frequent location for letter : b
+position: 1, freq: 54.62%
+position: 3, freq: 21.35%
+position: 4, freq: 14.22%
+position: 2, freq: 5.17 %
+position: 5, freq: 4.64 %
+
+Most Frequent location for letter : c
+position: 1, freq: 43.59%
+position: 4, freq: 19.75%
+position: 3, freq: 19.35%
+position: 2, freq: 9.26 %
+position: 5, freq: 8.05 %
+
+Most Frequent location for letter : d
+position: 5, freq: 29.03%
+position: 1, freq: 28.5 %
+position: 4, freq: 19.35%
+position: 3, freq: 18.29%
+position: 2, freq: 4.84 %
+
+Most Frequent location for letter : e
+position: 4, freq: 32.17%
+position: 2, freq: 25.26%
+position: 5, freq: 24.01%
+position: 3, freq: 13.17%
+position: 1, freq: 5.4  %
+
+Most Frequent location for letter : f
+position: 1, freq: 55.25%
+position: 4, freq: 17.37%
+position: 3, freq: 15.99%
+position: 5, freq: 8.16 %
+position: 2, freq: 3.23 %
+
+Most Frequent location for letter : g
+position: 1, freq: 37.39%
+position: 4, freq: 24.2 %
+position: 3, freq: 23.39%
+position: 5, freq: 9.84 %
+position: 2, freq: 5.18 %
+
+Most Frequent location for letter : h
+position: 2, freq: 31.52%
+position: 1, freq: 25.0 %
+position: 5, freq: 21.76%
+position: 4, freq: 12.61%
+position: 3, freq: 9.11 %
+
+Most Frequent location for letter : i
+position: 2, freq: 32.94%
+position: 4, freq: 26.07%
+position: 3, freq: 25.0 %
+position: 5, freq: 10.05%
+position: 1, freq: 5.94 %
+
+Most Frequent location for letter : j
+position: 1, freq: 69.15%
+position: 3, freq: 15.16%
+position: 4, freq: 10.11%
+position: 2, freq: 5.05 %
+position: 5, freq: 0.53 %
+
+Most Frequent location for letter : k
+position: 4, freq: 27.77%
+position: 1, freq: 27.14%
+position: 5, freq: 21.57%
+position: 3, freq: 17.73%
+position: 2, freq: 5.79 %
+
+Most Frequent location for letter : l
+position: 3, freq: 24.96%
+position: 4, freq: 21.74%
+position: 2, freq: 20.4 %
+position: 5, freq: 16.91%
+position: 1, freq: 15.99%
+
+Most Frequent location for letter : m
+position: 1, freq: 34.04%
+position: 3, freq: 26.02%
+position: 4, freq: 18.68%
+position: 5, freq: 11.91%
+position: 2, freq: 9.34 %
+
+Most Frequent location for letter : n
+position: 3, freq: 30.62%
+position: 4, freq: 23.1 %
+position: 5, freq: 22.48%
+position: 2, freq: 13.78%
+position: 1, freq: 10.02%
+
+Most Frequent location for letter : o
+position: 2, freq: 43.71%
+position: 3, freq: 22.11%
+position: 4, freq: 17.3 %
+position: 5, freq: 10.48%
+position: 1, freq: 6.4  %
+
+Most Frequent location for letter : p
+position: 1, freq: 41.06%
+position: 3, freq: 18.88%
+position: 4, freq: 18.44%
+position: 2, freq: 12.31%
+position: 5, freq: 9.31 %
+
+Most Frequent location for letter : q
+position: 1, freq: 61.15%
+position: 3, freq: 19.42%
+position: 2, freq: 15.11%
+position: 5, freq: 2.16 %
+position: 4, freq: 2.16 %
+
+Most Frequent location for letter : r
+position: 3, freq: 30.02%
+position: 2, freq: 22.38%
+position: 5, freq: 17.4 %
+position: 4, freq: 16.96%
+position: 1, freq: 13.24%
+
+Most Frequent location for letter : s
+position: 5, freq: 48.16%
+position: 1, freq: 27.73%
+position: 4, freq: 11.03%
+position: 3, freq: 10.43%
+position: 2, freq: 2.65 %
+
+Most Frequent location for letter : t
+position: 5, freq: 26.02%
+position: 4, freq: 24.33%
+position: 1, freq: 23.42%
+position: 3, freq: 18.69%
+position: 2, freq: 7.54 %
+
+Most Frequent location for letter : u
+position: 2, freq: 41.74%
+position: 3, freq: 23.42%
+position: 4, freq: 20.41%
+position: 1, freq: 9.76 %
+position: 5, freq: 4.67 %
+
+Most Frequent location for letter : v
+position: 3, freq: 32.69%
+position: 1, freq: 32.69%
+position: 4, freq: 22.78%
+position: 2, freq: 9.23 %
+position: 5, freq: 2.62 %
+
+Most Frequent location for letter : w
+position: 1, freq: 39.97%
+position: 3, freq: 23.57%
+position: 2, freq: 14.86%
+position: 4, freq: 13.58%
+position: 5, freq: 8.03 %
+
+Most Frequent location for letter : x
+position: 3, freq: 34.9 %
+position: 5, freq: 32.13%
+position: 2, freq: 20.5 %
+position: 1, freq: 7.48 %
+position: 4, freq: 4.99 %
+
+Most Frequent location for letter : y
+position: 5, freq: 66.84%
+position: 2, freq: 11.07%
+position: 3, freq: 9.08 %
+position: 1, freq: 6.62 %
+position: 4, freq: 6.39 %
+
+Most Frequent location for letter : z
+position: 3, freq: 30.17%
+position: 4, freq: 27.22%
+position: 1, freq: 23.63%
+position: 5, freq: 11.39%
+position: 2, freq: 7.59 %
+

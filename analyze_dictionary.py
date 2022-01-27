@@ -1,4 +1,4 @@
-# Analyze entire dictionary to get 5 letter words
+# Analyze entire dictionary to get file of 5 letter words
 
 dict_filename = 'all_words.txt'
 five_letter_dict_filename = 'five_letter_words.txt'
