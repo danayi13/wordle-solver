@@ -9,9 +9,15 @@ program to help solve the popular puzzle from [wordleunlimited.com](wordleunlimi
 - What letter appear most frequently?
 - What letter appears in each location most frequently?
 - When letters appear, in which location do they most frequently appear?
+4. Implement simple CLI for user to interact with
 
 ### Game Strategy
-
+- Guess 'adieu' as the first word
+- Rank the possible subsequent suggestions by
+  - How many new letters it introduces
+  - How common the letters it introduces are
+  - How common the letters it has in each position are
+  - How many words the guess would remove based on each possible response
 
 ## File Outline:
 `all_words.txt` - list of all words in the English language
