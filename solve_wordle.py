@@ -20,16 +20,17 @@ def letter_present_wrong_spot(letter, index):
     global five_letter_words
     five_letter_words = list(filter(lambda x: x[index] != letter and letter in x, five_letter_words))
 
+# No letter reused
+guess_words = ['tumid', 'fleck', 'bongs', 'harpy']
 
 if __name__ == '__main__':
     print("Welcome to the Wordle Solver!")
-    print("Guess 'IRATE' as your first word.")
-    current_guess = 'irate'
+    print()
 
-    # TODO deal with letter in word, guessed correct spot, but not in another spot
-    # Currently will remove all possible words
+    for i in range(4):
+        print(f"Guess '{guess_words[i]}' as your word.")
+        current_guess = guess_words[i]
 
-    for i in range(5):
         print("Input response (format with 'x' for no letter, 'o' for letter present in wrong spot, and 'y' for correct spot)")
         correctness = input("Response: ")
         if correctness == "DONE": 
@@ -49,4 +50,4 @@ if __name__ == '__main__':
         print("POSSIBLE LIST LENGTH: " + str(len(five_letter_words)))
         print()
 
-        current_guess = input("Guess another word: ")
+        # current_guess = input("Guess another word: ")
